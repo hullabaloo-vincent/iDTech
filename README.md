@@ -1,10 +1,10 @@
 # iDTech
 
-##About##
+## About
 
 All Unity Examples referenced in the presentations are located in the `UnityExamples` folder.
 
-##Presentations##
+## Presentations
 
 **11/16/2020**
 
