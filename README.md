@@ -4,9 +4,11 @@
 
 All Unity Examples referenced in the presentations are located in the `UnityExamples` folder.
 
-## Presentations
+## Projects and Files
+* Navmeshhes
+* Collision-based Mesh Cutting
 
-**11/16/2020**
+## Presentations
 
 AI, NavMeshes, and A* Pathfinding Heuristic: 
 https://github.com/hullabaloo-vincent/iDTech/blob/main/Presentations/iDTech_AliquoVincent_A_Star.pptx
