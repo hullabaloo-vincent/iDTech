@@ -3,6 +3,7 @@
 ## About
 
 All Unity Examples referenced in the presentations are located in the `UnityExamples` folder.
+Code snippets and asset imports are in the `Imports` folder.
 
 ## Projects and Files
 * Navmeshhes
