@@ -14,3 +14,6 @@ Code snippets and asset imports are in the `Imports` folder.
 
 AI, NavMeshes, and A* Pathfinding Heuristic: 
 https://github.com/hullabaloo-vincent/iDTech/blob/main/Presentations/iDTech_AliquoVincent_A_Star.pptx
+
+## Found an issue?
+Create a new issue 
