@@ -8,6 +8,7 @@ Code snippets and asset imports are in the `Imports` folder.
 ## Projects and Files
 * Navmeshhes
 * Collision-based Mesh Cutting
+* Scene management
 
 ## Presentations
 
