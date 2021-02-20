@@ -16,4 +16,4 @@ AI, NavMeshes, and A* Pathfinding Heuristic:
 https://github.com/hullabaloo-vincent/iDTech/blob/main/Presentations/iDTech_AliquoVincent_A_Star.pptx
 
 ## Found an issue?
-Create a new issue 
+Code not working? Next to the code tab above the repository, please create a new issue so I can review it.
