@@ -1,8 +1,1 @@
-# Java Classes
-
-## Class 01
-
-
-## Class 02
-* Classes
-* Inheritance
+# Java Class 02 Overview
