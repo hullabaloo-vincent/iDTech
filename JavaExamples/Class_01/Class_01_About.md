@@ -19,7 +19,7 @@ A class is a blueprint containing variables and methods that make it unique. You
 | --- | --- | --- | --- | --- |
 | This makes the function main() available to the Java Virtual Machine (JVM) to run. | This designates the main() function to this particular class. Note: A static function can be invoked without creating a separate instance of a class | Typically, a function must return something, such as a variable, however, setting any function as void means it does not need to return anything. Example of a function that needs to return something: public int getSpeed(){ return this.speed} | This is the function that gets executed by the JVM | String[] args are variables that you can pass into the app via a command line. For example, lets say you had a java file that writes text documents, and you want to immediately open the app with your a specific document in mind. To execute your java file type java MyTextApp.java, but to pass a text file location in type java MyTextApp.java C:/Users/Desktop/WritingHomework.txt.
 # Running code in the terminal
-### Running a .jar file
+### Running a .java file
 In the command line, type the following:
 ```
 java YourAppName.java
