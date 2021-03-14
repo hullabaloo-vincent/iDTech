@@ -1,13 +1,14 @@
 # iDTech
 
 ## About
-* All Java class projects are located in the `JavaExamples` folder.
+* All Java class projects are located in the `JavaExamples` folder. Please read the _Classes_Overview.md_ for an overview of what each class was about. Each class folder has a **.md** file which goes into detail about the topics covered in class.
 * All Unity Examples, code snippets, and asset imports are located in the `UnityExamples` folder.
 
-## Projects and Files
-* Navmeshhes
-* Collision-based Mesh Cutting
-* Scene management
+## Game Projects and Files
+* Unity
+  * Navmeshhes
+  * Collision-based Mesh Cutting
+  * Scene management
 
 ## Presentations
 
