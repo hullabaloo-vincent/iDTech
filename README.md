@@ -1,8 +1,8 @@
 # iDTech
 
 ## About
-
-All Unity Examples, code snippets, and asset imports are located in the `UnityExamples` folder.
+* All Java class projects are located in the `JavaExamples` folder.
+* All Unity Examples, code snippets, and asset imports are located in the `UnityExamples` folder.
 
 ## Projects and Files
 * Navmeshhes
